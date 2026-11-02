@@ -5,7 +5,7 @@ the county fair in **9 turns**, before the rabbits get them.
 
 Built with TypeScript, Vite and three.js, with a 2.5D low-poly garden.
 
-**Play it:** https://YOUR-PROJECT-NAME.netlify.app <!-- Replace after your first deploy. -->
+**Play it:** https://country-fair-garden.netlify.app/
 
 
 <!--
