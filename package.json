@@ -1,0 +1,27 @@
+{
+  "author": "Muhammad Osama Muhammad Muhammad",
+  "name": "county-fair-garden",
+  "private": true,
+  "version": "1.0.0",
+  "description": "County Fair Garden: the APPD 5000 mystery.js card game, rebuilt in TypeScript with a 2.5D three.js garden.",
+  "type": "module",
+  "engines": {
+    "node": ">=18.18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "three": "~0.170.0"
+  },
+  "devDependencies": {
+    "@types/three": "~0.170.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.0",
+    "vitest": "^3.0.0"
+  }
+}
